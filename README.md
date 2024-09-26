@@ -2,7 +2,7 @@
 
 ###
 
-Curioso e _ávido_ por conhecimento, desde que me perguntei como os aplicativos para smartphone funcionam, sigo buscando cada vez mais conhecimento nesta extensa área que é a tecnologia.
+Curioso e _ávido_ por conhecimento, desde que me perguntei como aplicativos são desenvolvidos, sigo buscando cada vez mais conhecimento nesta extensa área que é a tecnologia.
 
 ###
 
